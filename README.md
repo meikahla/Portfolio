@@ -2,6 +2,10 @@
 
 I'm a Unity game developer with over 3 years of experience, focusing on mobile game development (Android/iOS). This repository includes some of the Unity C# scripts I've written to demonstrate different game mechanics and features.
 
+You can also find more about my work and connect with me through the following profiles:
+- [LinkedIn](https://www.linkedin.com/in/alhakiemhemly/)
+- [Behance](https://www.behance.net/alhakiem)
+
 ## What's Inside This Repo
 
 In this repo, you'll find a selection of Unity C# scripts that cover various aspects of game development. They're designed to be easy to understand and can be used or adapted for your own Unity projects.
