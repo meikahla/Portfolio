@@ -29,4 +29,4 @@ Feel free to explore or reach out with any questions!
 ### Lunar Lion Dance
 - Worked solely on the project as the solo programmer
 - Heavily involved throughout the whole development process: Game Design, Programming, Testing and Debugging, Publishing and Marketing, Monetization  
-[Link to Game](https://play.google.com/store/apps/details?id=com.MasonGames.LunarLionDance&hl=en)
+[Link to Game (Android)](https://play.google.com/store/apps/details?id=com.MasonGames.LunarLionDance&hl=en)
